@@ -1,9 +1,9 @@
 # Simple personal portfolio site
 
 ### Requirements
- - Include at least 4 different containers with at least one image on each section.
- - All styling should be in a css file.
- - Include at least two pages
+ - Include at least 4 different containers with at least one image on each section. (10pts)
+ - All styling should be in a css file. (5pts)
+ - Include at least two pages. (5pts)
 
 ### Tribute Page or Landing Page Examples
 
