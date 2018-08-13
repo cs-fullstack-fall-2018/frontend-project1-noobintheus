@@ -1,6 +1,6 @@
 # Simple personal portfolio site
 
-### Requirements
+### Requirements (Total of 20pts)
  - Include at least 4 different containers with at least one image on each section. (10pts)
  - All styling should be in a css file. (5pts)
  - Include at least two pages. (5pts)
